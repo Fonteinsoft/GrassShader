@@ -25,6 +25,7 @@ public class GrassGPUInstancing : MonoBehaviour {
     public Vector3[] grassPositions;
 
     public LayerMask grassCutterLayer;
+    public LayerMask grassCollisionLayer;
 
     // Particle System stuff
     public ParticleSystem particleSys = null;
@@ -84,7 +85,7 @@ public class GrassGPUInstancing : MonoBehaviour {
 
 
     void Update() {
-        int colliderCount = Physics.OverlapBoxNonAlloc(overlapBoxPosition, overlapBoxExtents, colliders);
+        int colliderCount = Physics.OverlapBoxNonAlloc(overlapBoxPosition, overlapBoxExtents, colliders, Quaternion.identity, grassCollisionLayer);
         int colliderCount2 = Physics.OverlapBoxNonAlloc(overlapBoxPosition, overlapBoxExtents, colliders2, Quaternion.identity, grassCutterLayer);
 
         int thousands = 0;
