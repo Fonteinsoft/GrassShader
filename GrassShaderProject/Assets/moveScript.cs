@@ -17,6 +17,6 @@ public class moveScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector3.Lerp(start, end, Mathf.Abs(Mathf.Sin(Time.time / time)));
+        transform.position = Vector3.Lerp(start, end, (Mathf.Sin(((Time.time / time) - (Mathf.PI / 2f))) + 1f) / 2f);
     }
 }
