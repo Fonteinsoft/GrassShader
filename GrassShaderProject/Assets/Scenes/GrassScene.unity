@@ -133,6 +133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground (default layer)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 7efca921a664d814683f15a11d6d61f9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 7efca921a664d814683f15a11d6d61f9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6777,6 +6782,9 @@ MonoBehaviour:
   grassCutterLayer:
     serializedVersion: 2
     m_Bits: 512
+  grassCollisionLayer:
+    serializedVersion: 2
+    m_Bits: 1
   particleSys: {fileID: 802690996}
 --- !u!114 &1872224693
 MonoBehaviour:
@@ -6797,6 +6805,6 @@ MonoBehaviour:
     m_Bits: 256
   grassPlacementLayer:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1024
   targetGrassSpawner: {fileID: 1872224692}
   raycastHeight: 15
