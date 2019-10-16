@@ -333,6 +333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   start: {x: -15.8, y: 1.81, z: -9}
   end: {x: -27.79, y: 1.81, z: 38.64}
+  time: 18
 --- !u!1 &490915130
 GameObject:
   m_ObjectHideFlags: 0
@@ -459,6 +460,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   start: {x: 2.88, y: 0.6, z: 17.79}
   end: {x: -22.4, y: 0.6, z: 41.6}
+  time: 3
 --- !u!65 &494582392
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -631,6 +633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   start: {x: 8.19, y: 9.42, z: 25.7}
   end: {x: 13.93, y: 19.88, z: 41.75}
+  time: 10
 --- !u!1 &802690994
 GameObject:
   m_ObjectHideFlags: 0
