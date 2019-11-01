@@ -9,6 +9,10 @@ Maybe due to the scaling of some object. ShaderGraph isn't possible yet because 
 
 Scene:
 [Scene](https://github.com/Fonteinsoft/GrassShader/blob/master/scene.PNG)
+
+
+![Scene](https://github.com/Fonteinsoft/GrassShader/blob/master/scene.PNG)
+
 Gif:
 <div align=center>
 <img src="https://thumbs.gfycat.com/SpiffyMagnificentAmazondolphin-mobile.mp4"/>
