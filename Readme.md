@@ -13,4 +13,4 @@ Scene:
 
 Gif:
 
-![gif](https://github.com/Fonteinsoft/GrassShader/blob/master/ezgif-2-a98af4aadbfe.gif)
+![gif](https://github.com/Fonteinsoft/GrassShader/blob/master/video.gif)
