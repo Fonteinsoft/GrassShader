@@ -13,7 +13,7 @@ Scene:
 
 ![Scene](https://github.com/Fonteinsoft/GrassShader/blob/master/scene.PNG)
 
-![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 Gif:
 <div align=center>
