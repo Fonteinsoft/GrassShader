@@ -8,6 +8,7 @@ It's currently a normal HLSL shader and not yet a ShaderGraph. Shadow casting wo
 Maybe due to the scaling of some object. ShaderGraph isn't possible yet because you cannot set custom properties per object in SG yet.
 
 Scene:
+
 ![Scene](https://github.com/Fonteinsoft/GrassShader/blob/master/scene.PNG)
 
 
