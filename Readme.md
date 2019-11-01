@@ -12,4 +12,4 @@ Scene:
 
 
 Gif:
-![gif](https://thumbs.gfycat.com/SpiffyMagnificentAmazondolphin-mobile.mp4)
+![gif](https://github.com/Fonteinsoft/GrassShader/blob/master/ezgif-2-a98af4aadbfe.gif)
