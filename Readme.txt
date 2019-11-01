@@ -9,7 +9,7 @@ Maybe due to the scaling of some object. ShaderGraph isn't possible yet because 
 
 Scene:
 <div align=center>
-<img src="https://i.imgur.com/UT06Rjg.png"/>
+<img src="https://github.com/Fonteinsoft/GrassShader/blob/master/scene.PNG"/>
 </div>
 
 Gif:
